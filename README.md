@@ -101,19 +101,9 @@ interested in technology, software development, business, and data.
 
 ## 👋 Sobre mí
 
-Soy **graduado en Gestión Financiera**, técnico en **Administración y
-Contabilidad**, y actualmente estoy cursando una licenciatura en
-**Administración de Empresas**.
+Graduado en Gestión Financiera | Técnico en Administración y Contabilidad | Cursando **Administración de Empresas** y **Desarrollo de Sistemas en SENAC**.
 
-También estudio **Desarrollo de Sistemas en SENAC**. La programación
-comenzó como un pasatiempo y una forma de ampliar mis habilidades
-profesionales. Estoy explorando distintas tecnologías, desarrollando
-proyectos prácticos y considerando la posibilidad de una futura
-transición profesional hacia el desarrollo de software.
-
-Mi objetivo es construir una base sólida en programación, aprender
-mediante proyectos prácticos y combinar mi formación en negocios y
-finanzas con la tecnología.
+La programación comenzó como un pasatiempo y hoy forma parte de mi crecimiento profesional. Mi objetivo es construir una base sólida en desarrollo de software y combinar mi formación en negocios y finanzas con la tecnología.
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -157,26 +147,10 @@ trabajar con Python.
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   
 ## 🚀 Proyectos
-
-Estoy trabajando para fortalecer mis fundamentos y aplicar lo que
-aprendo mediante proyectos prácticos. A medida que publique proyectos,
-esta sección destacará repositorios seleccionados, sus objetivos y las
-tecnologías utilizadas.
-
-## 🎯 Objetivos de aprendizaje
-
--   Fortalecer la lógica de programación y los fundamentos del
-    desarrollo de software.
--   Crear proyectos prácticos y documentar mi proceso de aprendizaje.
--   Explorar diferentes tecnologías y áreas de desarrollo.
--   Conectar mis conocimientos de negocios, finanzas y datos con la
-    tecnología.
--   Seguir creciendo académica y profesionalmente.
+Enfocándome en fortalecer fundamentos a través de proyectos prácticos. Pronto destacaré repositorios seleccionados aquí.
 
 ## 📫 Contacto
-
-Estoy abierto a aprender, intercambiar ideas y conectar con personas
-interesadas en tecnología, desarrollo de software, negocios y datos.
+Abierto a conectar con personas interesadas en tecnología, desarrollo de software, negocios y datos.
 
 <div>
   <a href="[https://www.instagram.com/matheusneves.dns/]" target="_blank">
