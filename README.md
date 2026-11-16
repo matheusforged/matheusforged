@@ -9,7 +9,7 @@ I'm a **Financial Management graduate**, a **technical graduate in
 Administration and Accounting**, and currently pursuing a bachelor's
 degree in **Business Administration**.
 
-I'm also studying **Systems Development at SENAC**. Programming began as
+I'm also studying **Systems Analysis and Development at UAM**. Programming began as
 a hobby and a way to expand my professional skills. I'm exploring
 different technologies, building practical projects, and considering the
 possibility of a future career transition into software development.
