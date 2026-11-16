@@ -8,8 +8,7 @@
 Sou **graduado em Gestão Financeira**, técnico em **Administração e
 Contabilidade** e atualmente curso bacharelado em **Administração**.
 
-Também estou cursando **Técnico em Desenvolvimento de Sistemas pelo
-SENAC**. A programação começou como um hobby e uma forma de ampliar
+Também estou cursando **Analise e Desenvolvimento de Sistemas pela UAM**. A programação começou como um hobby e uma forma de ampliar
 minhas habilidades profissionais. Estou explorando diferentes
 tecnologias, desenvolvendo projetos práticos e considerando a
 possibilidade de uma futura transição de carreira para o desenvolvimento
