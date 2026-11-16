@@ -9,7 +9,7 @@ Soy **graduado en Gestión Financiera**, técnico en **Administración y
 Contabilidad**, y actualmente estoy cursando una licenciatura en
 **Administración de Empresas**.
 
-También estudio **Desarrollo de Sistemas en SENAC**. La programación
+También estudio **Análisis y Desarrollo de Sistemas en UAM**. La programación
 comenzó como un pasatiempo y una forma de ampliar mis habilidades
 profesionales. Estoy explorando distintas tecnologías, desarrollando
 proyectos prácticos y considerando la posibilidad de una futura
